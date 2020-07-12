@@ -1,0 +1,13 @@
+
+Comandos para Typescript:
+
+ubicados en la carpeta que contiene el archivo js:
+
+tsc -w *.ts 
+		permite compilar todos los archivos y no uno por uno.
+
+tsc 	= typescript
+-w 	= watch, busca los archivos cambiados.
+*.ts 	= todos los archivos con extensión typescript.
+	
+
